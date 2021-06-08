@@ -405,7 +405,7 @@ msgstr[1] "Nous avons trouvé %d résultats pour votre recherche."
 #. translators: %s: Search term.
 #: template-parts/content/content-none.php:22 search.php:21
 msgid "Results for \"%s\""
-msgstr "Résultats pour « %s »"
+msgstr "zebi Résultats pour « %s »"
 
 #. translators: %s: List of tags.
 #: inc/template-tags.php:118 inc/template-tags.php:162
